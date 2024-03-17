@@ -1,5 +1,5 @@
 {
-  "1": [
+  "0": [
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/1/animal01.svg",
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/1/animal01.svg",
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/1/animal02.svg",
@@ -32,7 +32,7 @@
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/1/animal29.svg",
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/1/animal30.svg"
   ],
-  "2": [
+  "1": [
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/2/chibi.png",
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/2/chibi1.png",
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/2/chibi2.png",
@@ -55,10 +55,10 @@
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/2/chibi19.png",
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/2/chibi20.png"
   ],
+  "2": [],
   "3": [],
   "4": [],
-  "5": [],
-  "6": [
+  "5": [
     "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/6/anime01.png",
  "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/6/anime02.png",
  "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/6/anime03.png",
@@ -82,6 +82,7 @@
  "https://raw.githubusercontent.com/dphoanghiep1998/ar_sources/main/6/anime21.png",
 
   ],
+  "6": [],
   "7": [],
   "8": [],
   "9": [],
@@ -89,6 +90,5 @@
   "11": [],
   "12": [],
   "13": [],
-  "14": [],
-  "15": []
+  "14": []
 }
